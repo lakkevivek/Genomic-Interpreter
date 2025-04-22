@@ -10,13 +10,7 @@ Attention-based hierarchical Transformer (1D-Swin) for DNA sequence analysis.
 * **PIL (Pillow):** 🖼️ Python Imaging Library, used for handling and displaying images.
 * **matplotlib:** 📊 A plotting library used for visualizing DNA sequences and model outputs.
 * **NumPy:** 🔢 A library for numerical computations, especially for handling arrays.
-
-## Project Structure 📂
-Markdown
-
-# Genomic-Interpreter-Transformer 🧬
-Attention-based hierarchical Transformer (1D-Swin) for DNA sequence analysis.
-
+* 
 ## Tech Stack 💻
 
 * **Python:** 🐍 The primary programming language.
@@ -28,16 +22,17 @@ Attention-based hierarchical Transformer (1D-Swin) for DNA sequence analysis.
 
 ## Project Structure 📂
 
-Genomic-Interpreter-Transformer/
-│
-├── app.py          # 📱 Streamlit app - user interface
-├── demo.py         # 🧠 Model implementation and logic
-├── README.md       # 📝 Project description
-├── swin1d/         # ⚙️ Directory for the Swin1D model
-│   └── module.py   # 🏗️ Swin1D model definition
-│   └── examples.py # 🔧 Helper functions (e.g., one-hot encoding)
-│
-└── requirements.txt # 📦 Project dependencies
+Genomic-Interpreter-Transformer/  
+│  
+├── app.py              # 📱 Streamlit app - user interface  
+├── demo.py             # 🧠 Model implementation and logic  
+├── README.md           # 📝 Project description  
+├── swin1d/             # ⚙️ Directory for the Swin1D model  
+│   ├── module.py       # 🏗️ Swin1D model definition  
+│   └── examples.py     # 🔧 Helper functions (e.g., one-hot encoding)  
+│  
+└── requirements.txt    # 📦 Project dependencies  
+
 
 ## Installation Guide 🛠️
 
