@@ -1,5 +1,6 @@
 # Genomic-Interpreter-Transformer
 Attention-based hierarchical Transformer (1D-Swin) for DNA sequence analysis. 
+This project implements a **1D Swin Transformer**, a variation of the original [Swin Transformer](https://arxiv.org/abs/2103.14030) architecture adapted for 1D input data such as time-series, sensor signals, or sequence modeling tasks.
 
 <p float="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
