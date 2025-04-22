@@ -1,16 +1,15 @@
 # Genomic-Interpreter-Transformer
 Attention-based hierarchical Transformer (1D-Swin) for DNA sequence analysis. 
 
+<p float="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-3693F3?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-## Tech Stack 💻
-
-* **Python:** 🐍 The primary programming language.
-* **PyTorch:** 🔥 A deep learning framework used for building and training the 1D-Swin Transformer model.
-* **Streamlit:** 🎈 A Python library for creating the web application interface.
-* **PIL (Pillow):** 🖼️ Python Imaging Library, used for handling and displaying images.
-* **matplotlib:** 📊 A plotting library used for visualizing DNA sequences and model outputs.
-* **NumPy:** 🔢 A library for numerical computations, especially for handling arrays.
-* 
 ## Tech Stack 💻
 
 * **Python:** 🐍 The primary programming language.
